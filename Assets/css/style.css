@@ -1,0 +1,24 @@
+body{
+    font-family:'Open Sans', sans-serif;
+    padding:2rem;}
+/* barra navegacion */
+.nvarcolor{
+    background-color:#e83e8c !important;}
+/* imagen del nav */
+.logo{
+    height:3rem;
+    margin-left: 2rem;
+    }
+/*tarjetas de pago */
+.ico{
+    margin-top:1rem;
+    font-size:4rem;}
+/* imagen footer */
+.lo{
+    height:6rem;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;}
+
+.card-title, .card-text {
+    font-family: 'Open sans', sans-serif;
+}
